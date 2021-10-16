@@ -1,5 +1,5 @@
 # Production-Line-Prototype-Assembly-Module-
-This code implements algorithm for Assembly Module that is a single stage out of 4 stages in a production line prototype. Microcontroller used is Arduino UNO.
+This C code implements algorithm for Assembly Module that is a single stage out of 4 stages in a production line prototype. Microcontroller used is Arduino UNO.
 
 The following components are used:
 
